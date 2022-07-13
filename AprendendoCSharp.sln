@@ -11,23 +11,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Criando_Variaveis2", "Crian
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversoesEOutrosTipos", "ConversoesEOutrosTipos\ConversoesEOutrosTipos.csproj", "{D0CA968E-FAC5-41AC-930D-889D60580FC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariaveisChar", "VariaveisChar\VariaveisChar.csproj", "{06543F01-6C79-4669-A8C7-124727F98A9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariaveisChar", "VariaveisChar\VariaveisChar.csproj", "{06543F01-6C79-4669-A8C7-124727F98A9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariaveisString", "VariaveisString\VariaveisString.csproj", "{5F51F264-8540-4F8E-84E6-46261AC3A0F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariaveisString", "VariaveisString\VariaveisString.csproj", "{5F51F264-8540-4F8E-84E6-46261AC3A0F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtribuicoesDeVariaveis", "AtribuicoesDeVariaveis\AtribuicoesDeVariaveis.csproj", "{5C549FCA-F7F4-430E-AA85-53D21BA62019}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AtribuicoesDeVariaveis", "AtribuicoesDeVariaveis\AtribuicoesDeVariaveis.csproj", "{5C549FCA-F7F4-430E-AA85-53D21BA62019}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicionais", "Condicionais\Condicionais.csproj", "{25A8FDD6-5CE5-4EBD-8678-1495E2F9E5A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Condicionais", "Condicionais\Condicionais.csproj", "{25A8FDD6-5CE5-4EBD-8678-1495E2F9E5A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicionais2Bool", "Condicionais2Bool\Condicionais2Bool.csproj", "{50F876BA-00B9-4D46-8D0B-6235F317AB4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Condicionais2Bool", "Condicionais2Bool\Condicionais2Bool.csproj", "{50F876BA-00B9-4D46-8D0B-6235F317AB4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escopo", "Escopo\Escopo.csproj", "{FF2121FF-49CE-4F71-AA3F-30F2BB367ADB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Escopo", "Escopo\Escopo.csproj", "{FF2121FF-49CE-4F71-AA3F-30F2BB367ADB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{62FDE938-3720-49E1-AB35-31E64A1040EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{62FDE938-3720-49E1-AB35-31E64A1040EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioIR", "DesafioIR\DesafioIR.csproj", "{D81E3CC3-FAA1-4A0B-AA18-B9275AA6744D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioIR", "DesafioIR\DesafioIR.csproj", "{D81E3CC3-FAA1-4A0B-AA18-B9275AA6744D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileCalculoPoupanca", "WhileCalculoPoupanca\WhileCalculoPoupanca.csproj", "{C11F5E96-F219-4151-8F67-57933C337D7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileCalculoPoupanca", "WhileCalculoPoupanca\WhileCalculoPoupanca.csproj", "{C11F5E96-F219-4151-8F67-57933C337D7C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForCalculoPoupanca", "ForCalculoPoupanca\ForCalculoPoupanca.csproj", "{D4316920-7094-4AD7-B66A-478B98D5F31D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForInvestimentoALongoPrazo", "ForInvestimentoALongoPrazo\ForInvestimentoALongoPrazo.csproj", "{0F1BF651-5363-4451-B5FB-C313E6B6583A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EncadeandoFor", "EncadeandoFor\EncadeandoFor.csproj", "{465DA88D-0B0D-4AE4-AF13-47CDA6E1780E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiplosDe3", "MultiplosDe3\MultiplosDe3.csproj", "{EF1809D8-AB5D-4FE6-B112-477A2D2E582E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fatorial", "Fatorial\Fatorial.csproj", "{37E4F38E-C48F-4EAE-A29E-08C8D7DF3BD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +97,26 @@ Global
 		{C11F5E96-F219-4151-8F67-57933C337D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C11F5E96-F219-4151-8F67-57933C337D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C11F5E96-F219-4151-8F67-57933C337D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4316920-7094-4AD7-B66A-478B98D5F31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4316920-7094-4AD7-B66A-478B98D5F31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4316920-7094-4AD7-B66A-478B98D5F31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4316920-7094-4AD7-B66A-478B98D5F31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F1BF651-5363-4451-B5FB-C313E6B6583A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F1BF651-5363-4451-B5FB-C313E6B6583A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F1BF651-5363-4451-B5FB-C313E6B6583A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F1BF651-5363-4451-B5FB-C313E6B6583A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{465DA88D-0B0D-4AE4-AF13-47CDA6E1780E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465DA88D-0B0D-4AE4-AF13-47CDA6E1780E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465DA88D-0B0D-4AE4-AF13-47CDA6E1780E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465DA88D-0B0D-4AE4-AF13-47CDA6E1780E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF1809D8-AB5D-4FE6-B112-477A2D2E582E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF1809D8-AB5D-4FE6-B112-477A2D2E582E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF1809D8-AB5D-4FE6-B112-477A2D2E582E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF1809D8-AB5D-4FE6-B112-477A2D2E582E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37E4F38E-C48F-4EAE-A29E-08C8D7DF3BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E4F38E-C48F-4EAE-A29E-08C8D7DF3BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37E4F38E-C48F-4EAE-A29E-08C8D7DF3BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37E4F38E-C48F-4EAE-A29E-08C8D7DF3BD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
