@@ -37,7 +37,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EncadeandoFor", "Encadeando
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiplosDe3", "MultiplosDe3\MultiplosDe3.csproj", "{EF1809D8-AB5D-4FE6-B112-477A2D2E582E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fatorial", "Fatorial\Fatorial.csproj", "{37E4F38E-C48F-4EAE-A29E-08C8D7DF3BD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fatorial", "Fatorial\Fatorial.csproj", "{37E4F38E-C48F-4EAE-A29E-08C8D7DF3BD0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BytebankPOO", "BytebankPOO\BytebankPOO.csproj", "{129E7171-98B8-41B3-949A-64295BC64308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank_Adm", "ByteBank_Adm\ByteBank_Adm.csproj", "{4554DAB2-8BA2-46D7-94A7-43EC60A421F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +121,14 @@ Global
 		{37E4F38E-C48F-4EAE-A29E-08C8D7DF3BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37E4F38E-C48F-4EAE-A29E-08C8D7DF3BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37E4F38E-C48F-4EAE-A29E-08C8D7DF3BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{129E7171-98B8-41B3-949A-64295BC64308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129E7171-98B8-41B3-949A-64295BC64308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129E7171-98B8-41B3-949A-64295BC64308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129E7171-98B8-41B3-949A-64295BC64308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4554DAB2-8BA2-46D7-94A7-43EC60A421F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4554DAB2-8BA2-46D7-94A7-43EC60A421F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4554DAB2-8BA2-46D7-94A7-43EC60A421F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4554DAB2-8BA2-46D7-94A7-43EC60A421F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

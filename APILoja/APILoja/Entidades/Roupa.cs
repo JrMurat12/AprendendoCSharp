@@ -7,7 +7,7 @@
         public double preco { get; set; }
         public string tecido { get; set; }
         public int id { get; set; }
-        public string data { get; set; } = DateTime.Now.ToString();
+        public DateTime data { get; set; } = DateTime.Now;
 
 
 
