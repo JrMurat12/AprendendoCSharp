@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ByteBank_Adm.Funcionarios
 {
-    public class Funcionario
+    public abstract class Funcionario
     {
         // 0 - Funcionário
         // 1 - Diretor
@@ -15,12 +15,31 @@ namespace ByteBank_Adm.Funcionarios
         // private int _tipo;
 
         public string Nome { get; set; }
-        public string Cpf { get; set; }
-        public double Salario { get; set; }
+        public string Cpf { get; private set; }
+        public double Salario { get; protected set; }
 
-        public double getBonificacao()
+        public abstract double getBonificacao();
+
+        public abstract void AumentarSalario();
+
+        public string Senha { get; set; }
+
+        public bool Autenticar(string senha)
         {
-                return Salario * 0.1;
+            return this.Senha == senha;
         }
+
+        public static int TotalDeFuncionarios { get; private set; }
+
+        public Funcionario(string cpf, double salario)
+        {
+            this.Salario = salario;
+            this.Cpf = cpf;
+            Console.WriteLine("Criando um funcionário...");
+            TotalDeFuncionarios++;
+        }
+
+        
+
     }
 }
