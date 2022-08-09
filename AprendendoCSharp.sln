@@ -41,7 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fatorial", "Fatorial\Fatori
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BytebankPOO", "BytebankPOO\BytebankPOO.csproj", "{129E7171-98B8-41B3-949A-64295BC64308}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank_Adm", "ByteBank_Adm\ByteBank_Adm.csproj", "{4554DAB2-8BA2-46D7-94A7-43EC60A421F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ByteBank_Adm", "ByteBank_Adm\ByteBank_Adm.csproj", "{4554DAB2-8BA2-46D7-94A7-43EC60A421F4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bytebank_ATENDIMENTO", "..\..\..\Downloads\Array_Collections_C-CodigoInicial\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO.csproj", "{6857F435-A403-409F-A4DC-699C4FBF8EA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{4554DAB2-8BA2-46D7-94A7-43EC60A421F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4554DAB2-8BA2-46D7-94A7-43EC60A421F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4554DAB2-8BA2-46D7-94A7-43EC60A421F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6857F435-A403-409F-A4DC-699C4FBF8EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6857F435-A403-409F-A4DC-699C4FBF8EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6857F435-A403-409F-A4DC-699C4FBF8EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6857F435-A403-409F-A4DC-699C4FBF8EA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
